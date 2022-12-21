@@ -1,1 +1,8 @@
-
+<tag>
+   <id>1</id>
+   <description> the file was successfully committed, but there was 1 error  </description>
+   <Priority> low </Priority>
+   <Importance> Minor </Importance>
+   <Author> Rostyslav </Author>
+   <Data> 20.12.2022 </Data>
+</tag>
